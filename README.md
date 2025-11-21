@@ -11,13 +11,13 @@
 <h2>Visit — Hotel Booking Platform</h2> — <a href="https://visit-osz7.onrender.com/home">https://visit-osz7.onrender.com/home</a>
 <p>Developed a hotel-search and booking web application using Node.js/Express and MongoDB with user authentication, search & filter, hotel detail pages, and booking flow. Focused on UX for quick searching, booking modals, and responsive card-based results.</p>
 
-<h2>FlipIt  — A card flip game</h2> — <a href="https://cad-flip-game.vercel.app">https://cad-flip-game.vercel.app</a>
+<h2>FlipMe  — A card flip game</h2> — <a href="https://cad-flip-game.vercel.app">https://cad-flip-game.vercel.app</a>
 <p>Card Flip Game is a fast, memory-matching web game where players flip cards to reveal symbols and find pairs. It tracks moves and time, includes smooth animations, and works on all devices. Simple, engaging, and fun—built to sharpen focus and improve recall with every round.</p>
 
 <h2>Simon Game</h2> — <a href="https://anshu0a.github.io/simon/si.html">https://anshu0a.github.io/simon/si.html</a>
 <p>Created an interactive Simon memory game in vanilla JavaScript with sound effects, level progression, and responsive controls — showcases DOM manipulation, event handling, and game logic.</p>
 
-<h2>Tic Tak Toe</h2> — <a href="https://anshu0a.github.io/Tic-Tac-Toe">https://anshu0a.github.io/Tic-Tac-Toe</a>
+<h2>Tic Tak Toe (Game)</h2> — <a href="https://anshu0a.github.io/Tic-Tac-Toe">https://anshu0a.github.io/Tic-Tac-Toe</a>
 <p>Tic Tac Toe is a simple two-player game where X and O compete to make a line first. This version includes smooth UI, quick turn updates, and automatic win detection. Easy, fast, and fun for improving focus and strategy.</p>
 
 <h2>Photo Gallery</h2> — <a href="https://me0anshu.github.io/gallery/one.html">https://me0anshu.github.io/gallery/one.html</a>
