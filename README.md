@@ -32,13 +32,13 @@
 <h2>Simon Game</h2> — <a href="https://anshu0a.github.io/simon/si.html">https://anshu0a.github.io/simon/si.html</a>
 <p>Created an interactive Simon memory game in vanilla JavaScript with sound effects, level progression, and responsive controls — showcases DOM manipulation, event handling, and game logic.</p>
 
-<h2>To-Do List App</h2> — <a href="https://anshu0a.github.io/todo/todo.html">https://anshu0a.github.io/todo/todo.html</a>
+<h2>To-Do List App</h2> — <a href="https://anshu0a.github.io/ease_todo">https://anshu0a.github.io/ease_todo</a>
 <p>Built a lightweight to-do application with add/edit/delete and completion states, persisting tasks to localStorage for client-side persistence and a clean, accessible UI.</p>
 
 <h2>India Info Page</h2> — <a href="https://anshu0a.github.io/india/">https://anshu0a.github.io/india/</a>
 <p>Static informational site presenting facts and cultural highlights, designed with semantic HTML and mobile-first CSS for readability and accessibility.</p>
 
-<h2>Favourite Place Website</h2> — <a href="https://anshu0a.github.io/fav_place/">https://anshu0a.github.io/fav_place/</a>
+<h2>About Bihar</h2> — <a href="https://anshu0a.github.io/fav_place/">https://anshu0a.github.io/fav_place/</a>
 <p>Static landing page showcasing a favorite travel destination using modern HTML/CSS and visual storytelling to highlight attractions and local tips.</p>
 
 <h2>Guess Me — Number Guessing Game</h2> — <a href="https://guess-me-azure.vercel.app/">https://guess-me-azure.vercel.app/</a>
