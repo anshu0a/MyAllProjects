@@ -11,6 +11,9 @@
 <h2>Visit — Hotel Booking Platform</h2> — <a href="https://visit-osz7.onrender.com/home">https://visit-osz7.onrender.com/home</a>
 <p>Developed a hotel-search and booking web application using Node.js/Express and MongoDB with user authentication, search & filter, hotel detail pages, and booking flow. Focused on UX for quick searching, booking modals, and responsive card-based results.</p>
 
+<h2>FlipIt  — A card flip game</h2> — <a href="https://cad-flip-game.vercel.app">https://cad-flip-game.vercel.app</a>
+<p>Card Flip Game is a fast, memory-matching web game where players flip cards to reveal symbols and find pairs. It tracks moves and time, includes smooth animations, and works on all devices. Simple, engaging, and fun—built to sharpen focus and improve recall with every round.</p>
+
 <h2>Photo Gallery</h2> — <a href="https://me0anshu.github.io/gallery/one.html">https://me0anshu.github.io/gallery/one.html</a>
 <p>Designed a clean, responsive photo gallery with a masonry/grid layout and lightbox-style viewing for improved image browsing on desktop and mobile devices.</p>
 
