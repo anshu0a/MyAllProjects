@@ -14,6 +14,12 @@
 <h2>FlipIt  — A card flip game</h2> — <a href="https://cad-flip-game.vercel.app">https://cad-flip-game.vercel.app</a>
 <p>Card Flip Game is a fast, memory-matching web game where players flip cards to reveal symbols and find pairs. It tracks moves and time, includes smooth animations, and works on all devices. Simple, engaging, and fun—built to sharpen focus and improve recall with every round.</p>
 
+<h2>Simon Game</h2> — <a href="https://anshu0a.github.io/simon/si.html">https://anshu0a.github.io/simon/si.html</a>
+<p>Created an interactive Simon memory game in vanilla JavaScript with sound effects, level progression, and responsive controls — showcases DOM manipulation, event handling, and game logic.</p>
+
+<h2>Tic Tak Toe</h2> — <a href="https://anshu0a.github.io/Tic-Tac-Toe">https://anshu0a.github.io/Tic-Tac-Toe</a>
+<p>Tic Tac Toe is a simple two-player game where X and O compete to make a line first. This version includes smooth UI, quick turn updates, and automatic win detection. Easy, fast, and fun for improving focus and strategy.</p>
+
 <h2>Photo Gallery</h2> — <a href="https://me0anshu.github.io/gallery/one.html">https://me0anshu.github.io/gallery/one.html</a>
 <p>Designed a clean, responsive photo gallery with a masonry/grid layout and lightbox-style viewing for improved image browsing on desktop and mobile devices.</p>
 
