@@ -20,6 +20,9 @@
 <h2>Tic Tak Toe (Game)</h2> — <a href="https://anshu0a.github.io/Tic-Tac-Toe">https://anshu0a.github.io/Tic-Tac-Toe</a>
 <p>Tic Tac Toe is a simple two-player game where X and O compete to make a line first. This version includes smooth UI, quick turn updates, and automatic win detection. Easy, fast, and fun for improving focus and strategy.</p>
 
+<h2>Guess Me — Number Guessing Game</h2> — <a href="https://guess-me-azure.vercel.app/">https://guess-me-azure.vercel.app/</a>
+<p>Interactive game that generates a random number and provides user feedback/hints — demonstrates UI feedback loops and simple game logic.</p>
+
 <h2>Photo Gallery</h2> — <a href="https://me0anshu.github.io/gallery/one.html">https://me0anshu.github.io/gallery/one.html</a>
 <p>Designed a clean, responsive photo gallery with a masonry/grid layout and lightbox-style viewing for improved image browsing on desktop and mobile devices.</p>
 
@@ -29,9 +32,6 @@
 <h2>Weather App</h2> — <a href="https://anshu0a-weather.netlify.app">https://anshu0a-weather.netlify.app</a>
 <p>Weather dashboard consuming public APIs to show current conditions, temperature, and humidity for any city; includes search and responsive layout.</p>
 
-<h2>Simon Game</h2> — <a href="https://anshu0a.github.io/simon/si.html">https://anshu0a.github.io/simon/si.html</a>
-<p>Created an interactive Simon memory game in vanilla JavaScript with sound effects, level progression, and responsive controls — showcases DOM manipulation, event handling, and game logic.</p>
-
 <h2>To-Do List App</h2> — <a href="https://anshu0a.github.io/ease_todo">https://anshu0a.github.io/ease_todo</a>
 <p>Built a lightweight to-do application with add/edit/delete and completion states, persisting tasks to localStorage for client-side persistence and a clean, accessible UI.</p>
 
@@ -40,9 +40,6 @@
 
 <h2>About Bihar</h2> — <a href="https://anshu0a.github.io/fav_place/">https://anshu0a.github.io/fav_place/</a>
 <p>Static landing page showcasing a favorite travel destination using modern HTML/CSS and visual storytelling to highlight attractions and local tips.</p>
-
-<h2>Guess Me — Number Guessing Game</h2> — <a href="https://guess-me-azure.vercel.app/">https://guess-me-azure.vercel.app/</a>
-<p>Interactive game that generates a random number and provides user feedback/hints — demonstrates UI feedback loops and simple game logic.</p>
 
 <h2>Coffee Website</h2> — <a href="https://anshu0a.github.io/coffe_website/">https://anshu0a.github.io/coffe_website/</a>
 <p>Developed a coffee-themed landing page featuring product/menu sections and responsive layout — emphasizes visual hierarchy and mobile-first design.</p>
