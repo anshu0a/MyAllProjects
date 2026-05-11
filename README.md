@@ -1,7 +1,7 @@
 <h2>Hemory — Digital Time Capsule</h2> <a>Currently working on it</a>
 <p>Built a platform for creating scheduled multimedia time capsules — supports scheduled content release, user authentication, and an immersive UI for saving and revisiting memories.</p>
 
-<h2>Taskly (Global Task & Challenge)</h2> — <a href="https://taskly-three-sage.vercel.app/login">[https://taskly-three-sage.vercel.app/login]</a>
+<h2>Taskly (Global Task & Challenge)</h2> — <a href="https://taskly-three-sage.vercel.app/login">https://taskly-three-sage.vercel.app/login</a>
 <p>Taskly is a MERN-based global task-sharing app where users can post tasks and challenges publicly. It lets users share goals, explore others’ tasks, and stay motivated through community challenges. Built with a simple UI and smooth API flows, Taskly highlights efficient full-stack development and collaborative productivity.</p>
 
 
