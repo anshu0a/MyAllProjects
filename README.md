@@ -5,6 +5,9 @@
 <p>Taskly is a global task-sharing app where users can post tasks and challenges publicly. It lets users share goals, explore others’ tasks, and stay motivated through community challenges. Built with a simple UI and smooth API flows, Taskly highlights efficient full-stack development and collaborative productivity.</p>
 
 
+<h2>Tourist — Tourist Management System</h2> — <a href="https://github.com/anshu0a/Spring_boot_Tourist">https://github.com/anshu0a/Spring_boot_Tourist</a>
+<p>Built a Spring Boot–based REST API for managing tourist records, featuring CRUD operations, layered architecture, Spring Data JPA, request validation, and exception handling.</p>
+
 <h2>Instagram Clone (Instax)</h2> — <a href="https://insta-theta-blond.vercel.app">https://insta-theta-blond.vercel.app</a>
 <p>Built a full-stack Instagram clone with real-time updates, image uploads, JWT authentication, and post interactions (like, comment). Implemented responsive UI and secure user flows to mirror core Instagram features for learning and demo purposes.</p>
 
