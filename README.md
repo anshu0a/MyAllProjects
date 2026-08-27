@@ -2,14 +2,14 @@
 <p>Built a platform for creating scheduled multimedia time capsules — supports scheduled content release, user authentication, and an immersive UI for saving and revisiting memories.</p>
 
 <h2>Taskly (Global Task & Challenge)</h2> — <a href="https://taskly-three-sage.vercel.app/login">https://taskly-three-sage.vercel.app/login</a>
-<p>Taskly is a MERN-based global task-sharing app where users can post tasks and challenges publicly. It lets users share goals, explore others’ tasks, and stay motivated through community challenges. Built with a simple UI and smooth API flows, Taskly highlights efficient full-stack development and collaborative productivity.</p>
+<p>Taskly is a global task-sharing app where users can post tasks and challenges publicly. It lets users share goals, explore others’ tasks, and stay motivated through community challenges. Built with a simple UI and smooth API flows, Taskly highlights efficient full-stack development and collaborative productivity.</p>
 
 
 <h2>Instagram Clone (Instax)</h2> — <a href="https://insta-theta-blond.vercel.app">https://insta-theta-blond.vercel.app</a>
-<p>Built a full-stack Instagram clone using the MERN stack with real-time updates, image uploads, JWT authentication, and post interactions (like, comment). Implemented responsive UI and secure user flows to mirror core Instagram features for learning and demo purposes.</p>
+<p>Built a full-stack Instagram clone with real-time updates, image uploads, JWT authentication, and post interactions (like, comment). Implemented responsive UI and secure user flows to mirror core Instagram features for learning and demo purposes.</p>
 
 <h2>Visit — Hotel Booking Platform</h2> — <a href="https://visit-osz7.onrender.com/home">https://visit-osz7.onrender.com/home</a>
-<p>Developed a hotel-search and booking web application using Node.js/Express and MongoDB with user authentication, search & filter, hotel detail pages, and booking flow. Focused on UX for quick searching, booking modals, and responsive card-based results.</p>
+<p>Developed a hotel-search and booking web application with user authentication, search & filter, hotel detail pages, and booking flow. Focused on UX for quick searching, booking modals, and responsive card-based results.</p>
 
 <h2>Valentine Wish</h2> — <a href="https://valentine-ten-murex-36.vercel.app/">https://valentine-ten-murex-36.vercel.app/</a>
 
