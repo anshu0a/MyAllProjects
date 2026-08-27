@@ -11,7 +11,7 @@
 <h2>Visit — Hotel Booking Platform</h2> — <a href="https://visit-osz7.onrender.com/home">https://visit-osz7.onrender.com/home</a>
 <p>Developed a hotel-search and booking web application using Node.js/Express and MongoDB with user authentication, search & filter, hotel detail pages, and booking flow. Focused on UX for quick searching, booking modals, and responsive card-based results.</p>
 
-<h2>Valentine Wish</h2> — <a href="https://github.com/anshu0a/MyAllProjects#valentine-wish">https://github.com/anshu0a/MyAllProjects#valentine-wish</a>
+<h2>Valentine Wish</h2> — <a href="https://valentine-ten-murex-36.vercel.app/">https://valentine-ten-murex-36.vercel.app/</a>
 
 <p>Valentine Wish is a full-stack web application designed to create and share personalized Valentine wishes. It provides a simple and interactive way for users to express their feelings through a dedicated digital experience, highlighting frontend development, user interaction, and responsive web design.</p>
 
